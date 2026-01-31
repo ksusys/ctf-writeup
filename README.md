@@ -8,4 +8,3 @@ This repo is a collection of writeups from Capture The Flag (CTF) challenges tha
 
 These writeups are for educational purposes only.
 All challenges come from legal CTF competitions and training platforms.
-Do not use the techniques shared here on systems you do not own or have permission to test.
